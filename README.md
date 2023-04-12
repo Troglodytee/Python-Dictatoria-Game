@@ -15,11 +15,11 @@ Dictatoria is a game project I made with a friend. It's a simple management game
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python pathlib library
-- Python os library
-- Python contextlib library
-- Python pygame library
-- Python random library
+- Python `pathlib` library
+- Python `os` library
+- Python `contextlib` library
+- Python `pygame` library
+- Python `random` library
 ## Game Captures
 ![Game capture 1](./preview/images/1.jpg)
 
